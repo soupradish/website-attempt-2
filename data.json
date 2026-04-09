@@ -1,0 +1,53 @@
+{
+  "name": "Kenneth Jennings",
+  "tagline": "Building systems at the intersection of business, cloud, and AI.",
+  "location": "Indiana, United States",
+  "email": "kennethljennings@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/kennethjennings",
+
+  "about": "I’m an Information Systems student at Ball State University and a Miller Leadership Academy Scholar. I focus on combining technical systems with business strategy, with growing experience in web development and AI-driven workflows through my internship work.",
+
+  "experience": [
+    {
+      "company": "Career Growth Now",
+      "role": "Intern",
+      "duration": "Jan 2026 – Present",
+      "impact": [
+        "Analyzed and improved UI to enhance user experience",
+        "Collaborated with leadership and Fortune 100 professionals to strengthen platform credibility",
+        "Streamlined internal workflows to improve efficiency"
+      ]
+    }
+  ],
+
+  "leadership": [
+    "Miller Leadership Academy Scholar",
+    "Dean’s Student Advisory Council",
+    "Student Government Association",
+    "Pi Kappa Alpha Fraternity",
+    "Residence Hall Council",
+    "Esports Team Management"
+  ],
+
+  "skills": [
+    "Web Development",
+    "AI Systems",
+    "Data Handling",
+    "Research",
+    "Information Design"
+  ],
+
+  "projects": [
+    {
+      "name": "Personal Resume Website",
+      "description": "Built a dynamic resume website using JSON-driven content and JavaScript rendering.",
+      "status": "In Progress"
+    }
+  ],
+
+  "learning": [
+    "Cloud Computing (AWS)",
+    "AI Database Structuring",
+    "System Design Fundamentals"
+  ]
+}
